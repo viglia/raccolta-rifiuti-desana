@@ -8,7 +8,7 @@
     ],
     "01-06": [
         "Vetro",
-        "Metalli Comerciali"
+        "Metalli Commerciali"
     ],
     "01-07": [
         "Organico",
@@ -101,7 +101,7 @@
         "Vetro",
         "Metalli",
         "Cartone Commerciale",
-        "Metalli Comerciali"
+        "Metalli Commerciali"
     ],
     "02-18": [
         "Organico",
@@ -122,5 +122,214 @@
         "Organico",
         "Tessili sanitari",
         "Indifferenziato non domestico"
+    ],
+    "03-01": [
+        "Organico",
+        "Carta"
+    ],
+    "03-02": [
+        "Sfalci verdi"
+    ],
+    "03-03": [
+        "Vetro",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "03-04": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "03-08": [
+        "Organico"
+    ],
+    "03-09": [
+        "Plastica",
+        "Sfalci verdi"
+    ],
+    "03-10": [
+        "Cartone Commerciale"
+    ],
+    "03-11": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "03-15": [
+        "Organico",
+        "Carta"
+    ],
+    "03-17": [
+        "Vetro",
+        "Metalli",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "03-18": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "03-22": [
+        "Organico"
+    ],
+    "03-23": [
+        "Plastica",
+        "Sfalci verdi"
+    ],
+    "03-24": [
+        "Cartone Commerciale"
+    ],
+    "03-25": [
+        "Organico",
+        "Tessili sanitari"
+    ],
+    "03-29": [
+        "Organico",
+        "Cartone"
+    ],
+    "03-31": [
+        "Vetro",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "04-01": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "04-05": [
+        "Organico"
+    ],
+    "04-06": [
+        "Plastica",
+        "Sfalci verdi"
+    ],
+    "04-07": [
+        "Cartone Commerciale"
+    ],
+    "04-08": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "04-12": [
+        "Organico",
+        "Cartone"
+    ],
+    "04-14": [
+        "Vetro",
+        "Metalli",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "04-15": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico",
+        "Sfalci verdi"
+    ],
+    "04-19": [
+        "Organico"
+    ],
+    "04-20": [
+        "Plastica"
+    ],
+    "04-21": [
+        "Cartone Commerciale"
+    ],
+    "04-22": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico",
+        "Sfalci verdi"
+    ],
+    "04-26": [
+        "Organico",
+        "Carta"
+    ],
+    "04-28": [
+        "Vetro",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "04-29": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "05-03": [
+        "Organico"
+    ],
+    "05-04": [
+        "Plastica",
+        "Sfalci verdi"
+    ],
+    "05-05": [
+        "Cartone Commerciale"
+    ],
+    "05-06": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non Commerciale"
+    ],
+    "05-09": [
+        "Sfalci verdi"
+    ],
+    "05-10": [
+        "Organico",
+        "Carta"
+    ],
+    "05-12": [
+        "Vetro",
+        "Metalli",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "05-13": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "05-17": [
+        "Organico"
+    ],
+    "05-18": [
+        "Plastica"
+    ],
+    "05-19": [
+        "Cartone Commerciale"
+    ],
+    "05-20": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "05-23": [
+        "Sfalci verdi"
+    ],
+    "05-24": [
+        "Organico",
+        "Carta"
+    ],
+    "05-26": [
+        "Vetro",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "05-27": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "05-31": [
+        "Organico"
     ]
 }
