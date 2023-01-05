@@ -1,0 +1,31 @@
+name: Report giornaliero rifiuti
+
+on:
+  schedule:
+    - cron:  '0 18 * * *' # At 18:00 CET time everyday
+  workflow_dispatch:
+    branches:
+      - "main"
+
+jobs:
+  run-report:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10.8'
+        cache: 'pip' # caching pip dependencies
+    - name: Install Italian Language Pack
+      run: |
+        sudo apt-get install language-pack-it
+        sudo locale-gen it_IT it_IT.utf8
+        sudo dpkg-reconfigure locales
+    - name: Install requirements
+      run: pip install -r requirements.txt
+    - name: Running main script
+      env:
+        TG_APP_ID: ${{ secrets.TG_APP_ID }}
+        TG_API_HASH: ${{ secrets.TG_API_HASH }}
+        TG_SESSION: ${{ secrets.TG_SESSION }}
+      run: python main.py
