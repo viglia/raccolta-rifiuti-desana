@@ -276,7 +276,7 @@
     "05-06": [
         "Organico",
         "Tessili sanitari",
-        "Indifferenziato non Commerciale"
+        "Indifferenziato non domestico"
     ],
     "05-09": [
         "Sfalci verdi"
@@ -331,5 +331,135 @@
     ],
     "05-31": [
         "Organico"
+    ],
+    "06-01": [
+        "Plastica",
+        "Cartone Commerciale",
+        "Sfalci verdi"
+    ],
+    "06-03": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "06-07": [
+        "Organico",
+        "Carta"
+    ],
+    "06-09": [
+        "Vetro",
+        "Metalli",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "06-10": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "06-14": [
+        "Organico"
+    ],
+    "06-15": [
+        "Plastica"
+    ],
+    "06-16": [
+        "Cartone Commerciale"
+    ],
+    "06-17": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "06-21": [
+        "Organico",
+        "Carta"
+    ],
+    "06-23": [
+        "Vetro",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "06-24": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "06-28": [
+        "Organico"
+    ],
+    "06-29": [
+        "Plastica",
+        "Sfalci verdi"
+    ],
+    "06-30": [
+        "Cartone Commerciale"
+    ],
+    "07-01": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "07-05": [
+        "Organico",
+        "Cartone"
+    ],
+    "07-07": [
+        "Vetro",
+        "Metalli",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "07-08": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "07-12": [
+        "Organico"
+    ],
+    "07-13": [
+        "Plastica"
+    ],
+    "07-14": [
+        "Cartone Commerciale"
+    ],
+    "07-15": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "07-19": [
+        "Organico",
+        "Carta"
+    ],
+    "07-21": [
+        "Vetro",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "07-22": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "07-26": [
+        "Organico"
+    ],
+    "07-27": [
+        "Plastica",
+        "Sfalci verdi"
+    ],
+    "07-28": [
+        "Cartone Commerciale"
+    ],
+    "07-29": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
     ]
 }
