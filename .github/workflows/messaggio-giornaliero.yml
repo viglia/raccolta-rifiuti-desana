@@ -2,7 +2,7 @@ name: Report giornaliero rifiuti
 
 on:
   schedule:
-    - cron:  '0 18 * * *' # At 18:00 CET time everyday
+    - cron:  '55 17 * * *' # At 17:55 UTC time everyday
   workflow_dispatch:
     branches:
       - "main"
