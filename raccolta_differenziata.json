@@ -461,5 +461,69 @@
         "Organico",
         "Tessili sanitari",
         "Indifferenziato non domestico"
+    ],
+    "08-02": [
+        "Organico",
+        "Carta"
+    ],
+    "08-04": [
+        "Vetro",
+        "Metalli",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "08-05": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "08-09": [
+        "Organico"
+    ],
+    "08-10": [
+        "Plastica"
+    ],
+    "08-11": [
+        "Cartone Commerciale"
+    ],
+    "08-12": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "08-16": [
+        "Organico",
+        "Cartone"
+    ],
+    "08-18": [
+        "Vetro",
+        "Cartone Commerciale",
+        "Metalli Commerciali"
+    ],
+    "08-19": [
+        "Organico",
+        "Indifferenziato",
+        "Tessili sanitari",
+        "Indifferenziato non domestico",
+        "Sfalci verdi"
+    ],
+    "08-23": [
+        "Organico"
+    ],
+    "08-24": [
+        "Plastica"
+    ],
+    "08-25": [
+        "Cartone Commerciale"
+    ],
+    "08-26": [
+        "Organico",
+        "Tessili sanitari",
+        "Indifferenziato non domestico"
+    ],
+    "08-30": [
+        "Organico",
+        "Carta"
     ]
 }
