@@ -350,3 +350,4 @@ MigrationBackup/
 .ionide/
 
 env/*
+.DS_Store
